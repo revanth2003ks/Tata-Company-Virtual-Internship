@@ -3,9 +3,7 @@ Name : Revanth KS
 
 Company : Tata
  
-ID : CT08DS8871
-
-Domain : PowerBI
+Domain : PowerBI 
 
 Duration : October 4th 2024
 

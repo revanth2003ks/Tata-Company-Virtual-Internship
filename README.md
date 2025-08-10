@@ -22,3 +22,4 @@ Task Given:
 4)Who are the top customers and how much do they contribute to the total revenue?
 <img width="1322" height="724" alt="Screenshot 2025-08-10 190926" src="https://github.com/user-attachments/assets/6ab5b582-372a-4193-9bfa-55dda81a52d5" />
 
+<img width="941" height="666" alt="Screenshot 2025-08-10 191904" src="https://github.com/user-attachments/assets/002d3075-5ef1-49f7-aa9c-24b94ef7acea" />
